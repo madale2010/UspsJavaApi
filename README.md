@@ -14,3 +14,9 @@ server.
  additional information.
  Once you have your id you can use the following usps services to help with your shipping needs.
 
+# Disclaimer
+This code is part of a poject for the Madbox Solutions. This is only referenced in
+part of a project name and has no affiliations with any other company. The sole developer on
+this project is Adam Dale, for additional information please contact adamdale2018@gmail.com.
+The only person that should have ownership over the source code is the intended authors of the
+Madbox Solutions.
