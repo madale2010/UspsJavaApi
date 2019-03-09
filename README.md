@@ -1,5 +1,4 @@
 # UspsJavaApi
-Usps Java Api
 
 United States Postal Service Web Tool Kit Development for Java applications. The following api will help with the creation and usage of
 objects when working with usps calls. Also makes it easy to make standard calls to usps services such as validate address, postage rates,
