@@ -1,5 +1,12 @@
+/*******************************************************
+ * Copyright (C) 2012-2019 Adam Dale adamdale2018@gmail.com
+ * 
+ * This file is part of Madbox Solutions.
+ * 
+ * USPS Java Api can not be copied and/or distributed without the express
+ * permission of Madbox Solutions.
+ *******************************************************/
 package com.madbox.usps.utils;
-
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
